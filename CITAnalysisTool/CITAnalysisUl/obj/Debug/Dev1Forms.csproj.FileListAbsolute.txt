@@ -1,0 +1,9 @@
+P:\Users\shivavandana.nayakan\serialize\Dev1Forms\Dev1Forms\obj\Debug\Dev1Forms.csprojResolveAssemblyReference.cache
+P:\Users\shivavandana.nayakan\serialize\Dev1Forms\Dev1Forms\bin\Debug\Dev1Forms.exe.config
+P:\Users\shivavandana.nayakan\serialize\Dev1Forms\Dev1Forms\obj\Debug\Dev1Forms.Form1.resources
+P:\Users\shivavandana.nayakan\serialize\Dev1Forms\Dev1Forms\obj\Debug\Dev1Forms.Properties.Resources.resources
+P:\Users\shivavandana.nayakan\serialize\Dev1Forms\Dev1Forms\obj\Debug\Dev1Forms.csproj.GenerateResource.Cache
+P:\Users\shivavandana.nayakan\serialize\Dev1Forms\Dev1Forms\bin\Debug\Dev1Forms.exe
+P:\Users\shivavandana.nayakan\serialize\Dev1Forms\Dev1Forms\bin\Debug\Dev1Forms.pdb
+P:\Users\shivavandana.nayakan\serialize\Dev1Forms\Dev1Forms\obj\Debug\Dev1Forms.exe
+P:\Users\shivavandana.nayakan\serialize\Dev1Forms\Dev1Forms\obj\Debug\Dev1Forms.pdb

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CITAnalysisBusinessLayer", "CITAnalysisBusinessLayer\CITAnalysisBusinessLayer.csproj", "{905B03C4-2483-4051-AAD4-E344111A978F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CITAnalysisUI", "CITAnalysisUl\CITAnalysisUI.csproj", "{D0C203DB-EF9A-4258-B71B-3376BCB48714}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{905B03C4-2483-4051-AAD4-E344111A978F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{905B03C4-2483-4051-AAD4-E344111A978F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{905B03C4-2483-4051-AAD4-E344111A978F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{905B03C4-2483-4051-AAD4-E344111A978F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0C203DB-EF9A-4258-B71B-3376BCB48714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0C203DB-EF9A-4258-B71B-3376BCB48714}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0C203DB-EF9A-4258-B71B-3376BCB48714}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0C203DB-EF9A-4258-B71B-3376BCB48714}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

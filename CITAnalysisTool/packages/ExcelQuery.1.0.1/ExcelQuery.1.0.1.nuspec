@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>ExcelQuery</id>
+    <version>1.0.1</version>
+    <title>Excel Query</title>
+    <authors>Daniel M. Porrey</authors>
+    <owners>Daniel M. Porrey</owners>
+    <licenseUrl>https://excelquery.codeplex.com/license</licenseUrl>
+    <projectUrl>https://excelquery.codeplex.com/</projectUrl>
+    <iconUrl>https://www.codeplex.com/Download?ProjectName=excelquery&amp;DownloadId=681403</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Provides methods to query an Excel spreadsheet as well as update the spreadsheet cells.</description>
+    <summary>Provides methods to query an Excel spreadsheet as well as update the spreadsheet cells.</summary>
+    <releaseNotes>v1.0.1
+Changed namespace.</releaseNotes>
+    <copyright>Copyright ©  2013 Daniel M. Porrey</copyright>
+    <language>en-US</language>
+    <tags>Excel ADO Jet Query DataSet</tags>
+  </metadata>
+</package>
